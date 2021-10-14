@@ -1,0 +1,43 @@
+if String.contains?(l, "TOTAL") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "UNF") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "T06") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "TUN") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "1UNF") do
+      IO.puts("#{l}")
+    end
+
+    if String.contains?(l, "TUF") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "1UNI") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "T03") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
+
+    if String.contains?(l, "103") do
+      IO.puts("#{l}")
+      File.write!("teste.txt", l)
+    end
